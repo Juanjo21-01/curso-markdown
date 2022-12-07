@@ -41,3 +41,25 @@ Se hacen con 3 guiones medios ---
 otra división
 
 ---
+
+# Listas en Markdown
+
+### Listas Ordenadas
+
+1. Primero
+1. Segundo
+1. Tercero
+1. Cuarto
+
+### Listas Desordenadas
+
+- Primavera
+  - v
+    - e
+      - r
+        - a
+          - n
+            - o
+- Verano
+- Otoño
+- Invierno
