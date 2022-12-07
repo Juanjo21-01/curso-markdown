@@ -81,3 +81,24 @@ otra división
 | Juan   | 21   | chevike15@gmail.com        |
 | José   | 21   | chevike@live.com           |
 | López  | 21   | jhernandezl39@miumg.edu.gt |
+
+# Códigos en Markdown
+
+### Códigos en línea
+
+`let` nombre
+
+### Códigos en bloque
+
+```js
+function sumar(a, b) {
+  return a + b;
+}
+```
+
+### Se puede escribir HTML
+
+<form>
+    <label for="q">Buscar: </label>
+    <input type="search" name="q" id="q">
+</form>
