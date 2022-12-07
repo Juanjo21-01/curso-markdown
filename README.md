@@ -73,3 +73,11 @@ otra división
 > Más texto en la cita
 >
 > Nombre del autor
+
+# Tablas en Markdown
+
+| Nombre | Edad | Correo                     |
+| ------ | ---- | -------------------------- |
+| Juan   | 21   | chevike15@gmail.com        |
+| José   | 21   | chevike@live.com           |
+| López  | 21   | jhernandezl39@miumg.edu.gt |
