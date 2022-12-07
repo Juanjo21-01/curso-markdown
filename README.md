@@ -100,5 +100,13 @@ function sumar(a, b) {
 
 <form>
     <label for="q">Buscar: </label>
-    <input type="search" name="q" id="q">
+    <input type="text" name="q" id="q">
 </form>
+
+---
+
+# Comentarios en Markdown
+
+<!--Comentario en Markdown-->
+
+Igual que en html < !-- -->
