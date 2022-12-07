@@ -63,3 +63,13 @@ otra división
 - Verano
 - Otoño
 - Invierno
+
+# Citas en Markdown
+
+> Cita en línea - Nombre del autor
+
+> Cita en bloque
+>
+> Más texto en la cita
+>
+> Nombre del autor
